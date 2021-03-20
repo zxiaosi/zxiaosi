@@ -4,3 +4,4 @@
 + 🌎[主站](https://xiaosi.world)
 + 🐵[博客](https://hexo.xiaosi.world)
 + 📖[笔记](https://doc.xiaosi.world)
++ 🙏想进大厂,有机会内推我🤝
