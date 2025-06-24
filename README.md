@@ -15,7 +15,7 @@
 <td width="600px" >
 <!-- https://github.com/gautamkrishnar/blog-post-workflow?tab=readme-ov-file#options -->
 
-<!-- BLOG-POST-LIST:START -->[Docker Compose 部署单机版 Nacos - 2025-06-23](https://zxiaosi.com/archives/444b5f5d.html)[Qiankun 打包优化 - 2025-06-17](https://zxiaosi.com/archives/bc84a75a.html)[React Flow - 2025-05-25](https://zxiaosi.com/archives/6c44ca34.html)[React Compiler - 2025-04-23](https://zxiaosi.com/archives/c4e98f84.html)[Node Cli - 2025-02-18](https://zxiaosi.com/archives/c9b4e73b.html)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->* [Docker Compose 部署单机版 Nacos - 2025-06-23](https://zxiaosi.com/archives/444b5f5d.html)* [Qiankun 打包优化 - 2025-06-17](https://zxiaosi.com/archives/bc84a75a.html)* [React Flow - 2025-05-25](https://zxiaosi.com/archives/6c44ca34.html)* [React Compiler - 2025-04-23](https://zxiaosi.com/archives/c4e98f84.html)* [Node Cli - 2025-02-18](https://zxiaosi.com/archives/c9b4e73b.html)<!-- BLOG-POST-LIST:END -->
 
 </td>
 
