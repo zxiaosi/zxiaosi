@@ -1,5 +1,3 @@
-## Hey 👋, I'm zxiaosi!
-
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=60531485" target="_blank" style="display: block" align="center">
@@ -9,11 +7,17 @@
   </picture>
 </a>
 
-<table width="100%">
-  
-<tr>
-<td  width="50%">
 
+
+<table>
+<tr>
+  
+<td width="60%">
+<!-- https://github.com/gautamkrishnar/blog-post-workflow?tab=readme-ov-file#options -->
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+  
 <!-- START_SECTION:blog -->
 * <a href='https://zxiaosi.com/archives/444b5f5d.html' target='_blank'>Docker Compose 部署单机版 Nacos</a> - 2025-06-23
 * <a href='https://zxiaosi.com/archives/bc84a75a.html' target='_blank'>Qiankun 打包优化</a> - 2025-06-17
@@ -23,11 +27,14 @@
 <!-- END_SECTION:blog -->
 
 </td>
-<td width="50%">
+
+<td width="40%">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxiaosi&layout=compact&theme=github_dark_dimmed)](https://github.com/zxiaosi)
+<a href="https://github.com/zxiaosi/github-readme-stats" width="30%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxiaosi&layout=compact&theme=github_dark_dimmed" />
+</a>
 
 </td>
-</tr>
 
+</tr>
 </table>
