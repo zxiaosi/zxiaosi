@@ -12,6 +12,6 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: zylele/social-readme@v3.0.0
+      - uses: zylele/social-readme@master
         with:
           blog_rss_link: https://zxiaosi.com/atom.xml
