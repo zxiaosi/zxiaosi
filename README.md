@@ -16,6 +16,11 @@
 <!-- https://github.com/gautamkrishnar/blog-post-workflow?tab=readme-ov-file#options -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker Compose 部署单机版 Nacos](https://zxiaosi.com/archives/444b5f5d.html)
+- [Qiankun 打包优化](https://zxiaosi.com/archives/bc84a75a.html)
+- [React Flow](https://zxiaosi.com/archives/6c44ca34.html)
+- [React Compiler](https://zxiaosi.com/archives/c4e98f84.html)
+- [Node Cli](https://zxiaosi.com/archives/c9b4e73b.html)
 <!-- BLOG-POST-LIST:END -->
 
 </td>
