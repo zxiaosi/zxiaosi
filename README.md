@@ -17,14 +17,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-  
-<!-- START_SECTION:blog -->
-* <a href='https://zxiaosi.com/archives/444b5f5d.html' target='_blank'>Docker Compose 部署单机版 Nacos</a> - 2025-06-23
-* <a href='https://zxiaosi.com/archives/bc84a75a.html' target='_blank'>Qiankun 打包优化</a> - 2025-06-17
-* <a href='https://zxiaosi.com/archives/6c44ca34.html' target='_blank'>React Flow</a> - 2025-05-25
-* <a href='https://zxiaosi.com/archives/c4e98f84.html' target='_blank'>React Compiler</a> - 2025-04-23
-* <a href='https://zxiaosi.com/archives/c9b4e73b.html' target='_blank'>Node Cli</a> - 2025-02-18
-<!-- END_SECTION:blog -->
 
 </td>
 
