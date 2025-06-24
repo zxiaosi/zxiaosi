@@ -1,9 +1,14 @@
+# https://zhuanlan.zhihu.com/p/439233664
+
 name: Latest blog post workflow
 
 on:
-  schedule:
+  schedule: # 定时触发
     - cron: '0 * * * *'
   workflow_dispatch:
+  repository_dispatch: # 工作流变更时触发
+    type: [blog-repository]
+  
 permissions:
   contents: write # To write the generated contents to the readme
 
