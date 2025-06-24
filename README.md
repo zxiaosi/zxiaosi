@@ -2,8 +2,8 @@
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=60531485" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=60531485&image_size=auto&color_scheme=dark" width="100%" height="auto">
-    <img alt="Dashboard stats of @zxiaosi" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=60531485&image_size=auto&color_scheme=light" width="100%" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=60531485&image_size=auto&color_scheme=dark" width="960px" height="auto">
+    <img alt="Dashboard stats of @zxiaosi" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=60531485&image_size=auto&color_scheme=light" width="960px" height="auto">
   </picture>
 </a>
 
@@ -12,7 +12,7 @@
 <table>
 <tr>
   
-<td width="60%">
+<td width="660px">
 <!-- https://github.com/gautamkrishnar/blog-post-workflow?tab=readme-ov-file#options -->
 
 <!-- BLOG-POST-LIST:START -->
@@ -28,12 +28,10 @@
 
 </td>
 
-<td width="40%">
-  
-<a href="https://github.com/zxiaosi/github-readme-stats" width="30%">
+<td align="center" width="300px">
+<a href="https://github.com/zxiaosi/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxiaosi&layout=compact&theme=github_dark_dimmed" />
 </a>
-
 </td>
 
 </tr>
