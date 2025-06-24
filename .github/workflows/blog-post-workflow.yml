@@ -17,5 +17,7 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: https://zxiaosi.com/atom.xml
-          max_post_count: 5
+          feed_list: "https://zxiaosi.com/atom.xml"
+          max_post_count: 5 # 文章数量
+          template: "[$title - $date]($url)"
+          date_format: "yyyy-mm-dd"
