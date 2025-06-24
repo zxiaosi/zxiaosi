@@ -1,3 +1,5 @@
+## Hey 👋, I'm zxiaosi!
+
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=60531485" target="_blank" style="display: block" align="center">
@@ -7,6 +9,11 @@
   </picture>
 </a>
 
+<table width="100%">
+  
+<tr>
+<td  width="50%">
+
 <!-- START_SECTION:blog -->
 * <a href='https://zxiaosi.com/archives/444b5f5d.html' target='_blank'>Docker Compose 部署单机版 Nacos</a> - 2025-06-23
 * <a href='https://zxiaosi.com/archives/bc84a75a.html' target='_blank'>Qiankun 打包优化</a> - 2025-06-17
@@ -15,4 +22,12 @@
 * <a href='https://zxiaosi.com/archives/c9b4e73b.html' target='_blank'>Node Cli</a> - 2025-02-18
 <!-- END_SECTION:blog -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</td>
+<td width="50%">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxiaosi&layout=compact&theme=github_dark_dimmed)](https://github.com/zxiaosi)
+
+</td>
+</tr>
+
+</table>
