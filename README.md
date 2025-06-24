@@ -14,3 +14,5 @@
 * <a href='https://zxiaosi.com/archives/c4e98f84.html' target='_blank'>React Compiler</a> - 2025-04-23
 * <a href='https://zxiaosi.com/archives/c9b4e73b.html' target='_blank'>Node Cli</a> - 2025-02-18
 <!-- END_SECTION:blog -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
