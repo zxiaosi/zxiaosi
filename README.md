@@ -12,7 +12,7 @@
 <table>
 <tr>
   
-<td width="660px">
+<td width="600px" >
 <!-- https://github.com/gautamkrishnar/blog-post-workflow?tab=readme-ov-file#options -->
 
 <!-- BLOG-POST-LIST:START -->
@@ -28,7 +28,7 @@
 
 </td>
 
-<td align="center" width="300px">
+<td align="center" width="360px" >
 <a href="https://github.com/zxiaosi/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxiaosi&layout=compact&theme=github_dark_dimmed" />
 </a>
