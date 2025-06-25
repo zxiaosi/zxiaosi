@@ -24,6 +24,6 @@ jobs:
         with:
           feed_list: "https://zxiaosi.com/atom.xml"
           max_post_count: 5 # 文章数量
-          template: "$newline - $date - [$title]($url)"
+          template: "- $date - [$title]($url)"
           date_format: "yyyy-mm-dd"
-          tag_post_pre_newline: false
+          tag_post_pre_newline: true
