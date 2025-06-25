@@ -14,11 +14,13 @@
 <!-- https://github.com/gautamkrishnar/blog-post-workflow?tab=readme-ov-file#options -->
 
 <!-- BLOG-POST-LIST:START -->
- * 2025-06-23 - [Docker Compose 部署单机版 Nacos](https://zxiaosi.com/archives/444b5f5d.html?_blank)
- * 2025-06-17 - [Qiankun 打包优化](https://zxiaosi.com/archives/bc84a75a.html?_blank)
- * 2025-05-25 - [React Flow](https://zxiaosi.com/archives/6c44ca34.html?_blank)
- * 2025-04-23 - [React Compiler](https://zxiaosi.com/archives/c4e98f84.html?_blank)
- * 2025-02-18 - [Node Cli](https://zxiaosi.com/archives/c9b4e73b.html?_blank)<!-- BLOG-POST-LIST:END -->
+
+ * 2025-06-23 - <a href='https://zxiaosi.com/archives/444b5f5d.html' target='_blank'>Docker Compose 部署单机版 Nacos</a>
+ * 2025-06-17 - <a href='https://zxiaosi.com/archives/bc84a75a.html' target='_blank'>Qiankun 打包优化</a>
+ * 2025-05-25 - <a href='https://zxiaosi.com/archives/6c44ca34.html' target='_blank'>React Flow</a>
+ * 2025-04-23 - <a href='https://zxiaosi.com/archives/c4e98f84.html' target='_blank'>React Compiler</a>
+ * 2025-02-18 - <a href='https://zxiaosi.com/archives/c9b4e73b.html' target='_blank'>Node Cli</a>
+<!-- BLOG-POST-LIST:END -->
 
 </td>
 
