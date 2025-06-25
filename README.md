@@ -7,8 +7,6 @@
   </picture>
 </a>
 
-
-
 <table>
 <tr>
   
@@ -30,8 +28,8 @@
 </td>
 
 <td align="center" width="400px" >
-<a href="https://github.com/zxiaosi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxiaosi&layout=compact&theme=github_dark_dimmed" />
+<a href="https://github.com/zxiaosi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxiaosi&layout=compact&theme=transparent" />
 </a>
 </td>
 
