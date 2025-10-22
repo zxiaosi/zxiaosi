@@ -14,11 +14,11 @@
   
 <!-- https://github.com/gautamkrishnar/blog-post-workflow?tab=readme-ov-file#options -->
 <!-- BLOG-POST-LIST:START -->
+- 2025-10-22 - [前端监控方案](https://zxiaosi.com/archives/84cd31ff.html) 
 - 2025-09-25 - [Vite 模板语法](https://zxiaosi.com/archives/234db02b.html) 
 - 2025-08-03 - [Qiankun 常见问题](https://zxiaosi.com/archives/e35d3ec.html) 
 - 2025-07-22 - [React 原理浅析](https://zxiaosi.com/archives/da72e83d.html) 
 - 2025-06-23 - [Docker Compose 部署单机版 Nacos](https://zxiaosi.com/archives/444b5f5d.html) 
-- 2025-06-17 - [Qiankun 打包优化](https://zxiaosi.com/archives/bc84a75a.html) 
 
 <!-- BLOG-POST-LIST:END -->
 
